@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/github-tests-go-ylipucsl-workflow:4e1bf58f1ec509ea05bcdacb270a522a57daa4b2@sha256:d9093374e74297bc3e29ae71e7111a221dcd0c13fb7ff9d7922254d69197d194
+        - image: quay.io/rhtap_qe/github-tests-go-ylipucsl-workflow:ca66685dcae7dd832b465101120009d3939e1113@sha256:1f6d2637e164e95e344bb43c3d25ff6dca035102430f6153f99cb8c931997721
           name: container-image
